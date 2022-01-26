@@ -13,7 +13,7 @@ It is assumed that students know basic matrix algebra, such as how to multiply a
 All lecture videos are available on YouTube:  
 [ROB 501 Fall 2018 videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH)
 
-And [lecture notes](https://github.com/michiganrobotics/rob501/tree/main/Lecture%20Notes).
+Also, [lecture notes](https://github.com/michiganrobotics/rob501/tree/main/Lecture%20Notes) and [handouts](https://github.com/michiganrobotics/rob501/tree/main/Handouts) are available.
 
 ## Recitatioins
 [Recitation questions and answers](https://github.com/michiganrobotics/rob501/tree/main/Recitations) are both available.
