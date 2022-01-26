@@ -2,7 +2,7 @@
 
 ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
 
-Topics include vector spaces, orthogonal bases, projection theorem, least squares, matrix factorizations, Kalman filter and extensions, particle filters, underlying probabilistic concepts, norms, convergent sequences, contraction mappings, Newton Raphson algorithm, nonlinear constrained optimization, local vs global convergence, convexity, linear and quadratic programs, and randomized search strategies.
+Topics include vector spaces, orthogonal bases, projection theorem, least squares, matrix factorizations, Kalman filter and underlying probabilistic concepts, norms, convergent sequences, contraction mappings, Newton Raphson algorithm, local vs global convergence in nonlinear optimization, convexity, linear and quadratic programs.
 
 This offering of the course is from Fall 2018.
 
