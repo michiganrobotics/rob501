@@ -6,7 +6,7 @@ Topics include vector spaces, orthogonal bases, projection theorem, least square
 
 This offering of the course is from Fall 2018.
 
-##Prerequisites
+## Prerequisites
 It is assumed that students know basic matrix algebra, such as how to multiply and invert matrices, what  is  the  rank  of  a  matrix,  and  how  to  compute  eigenvectors; know  how  to  compute  means  and  variances  given  a  density  of  a  continuous random variable, and conditional probability and how to compute it; know vector calculus and will review how to compute gradients of functions and what is the method of Lagrange multipliers; simple properties of complex numbers; and how to use MATLAB, including plotting, various types of multiplication, such as * vs .*  (star  vs  dot  star),  writing  a  for  loop,  or finding help.
 
 ## Lecture Videos & Notes
