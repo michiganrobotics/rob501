@@ -54,6 +54,11 @@ A [more detailed course plan](https://github.com/michiganrobotics/rob501/tree/ma
 - Jessy Grizzle, Director, Michigan Robotics
 - Nils Smit-Anseeuw
 
+## License
+All code is licensed under the [GNU General Public License v3.0](https://github.com/michiganrobotics/rob101/blob/main/LICENSE).
+
+All other content, including textbooks, homeworks, and video, is licensed under the [Creative Commons Attribution-NonCommericial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ## For more
 - [University of Michigan Robotics](https://robotics.umich.edu)
 - [Michigan Robotics Twitter](http://twitter.com/umrobotics)
