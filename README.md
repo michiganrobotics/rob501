@@ -9,11 +9,11 @@ This offering of the course is from Fall 2018.
 ## Prerequisites
 It is assumed that students know basic matrix algebra, such as how to multiply and invert matrices, what  is  the  rank  of  a  matrix,  and  how  to  compute  eigenvectors; know  how  to  compute  means  and  variances  given  a  density  of  a  continuous random variable, and conditional probability and how to compute it; know vector calculus and will review how to compute gradients of functions and what is the method of Lagrange multipliers; simple properties of complex numbers; and how to use MATLAB, including plotting, various types of multiplication, such as * vs .*  (star  vs  dot  star),  writing  a  for  loop,  or finding help.
 
-## Lecture Videos & Notes
+## Lecture Videos, Textbook & Notes
 All lecture videos are available on YouTube:  
 [ROB 501 Fall 2018 videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH)
 
-Also, [lecture notes](https://github.com/michiganrobotics/rob501/tree/main/Lecture%20Notes) and [handouts](https://github.com/michiganrobotics/rob501/tree/main/Handouts) are available.
+Also, the [textbook](https://github.com/michiganrobotics/rob501/tree/main/Textbook/ROB501_Textbook2022_03_21.pdf), [lecture notes](https://github.com/michiganrobotics/rob501/tree/main/Lecture%20Notes) and [handouts](https://github.com/michiganrobotics/rob501/tree/main/Handouts) are available.
 
 ## Recitatioins
 [Recitation questions and answers](https://github.com/michiganrobotics/rob501/tree/main/Recitations) are both available.
